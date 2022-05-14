@@ -67,3 +67,8 @@ a {
 li::first-letter {
   text-transform: capitalize;
 }
+
+.forecast {
+  margin-top: 20px;
+  text-align: center;
+}
