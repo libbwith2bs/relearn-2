@@ -43,8 +43,8 @@ li {
 
 .icon-and-temp img {
   margin-right: 8px;
-  height: 64px;
-  width: 64px;
+  height: 75px;
+  width: 75px;
 }
 
 .icon-and-temp strong {
@@ -69,6 +69,11 @@ li::first-letter {
 }
 
 .weather-forecast {
+  margin: 0 auto;
+  float: none;
   margin-top: 20px;
   text-align: center;
+}
+.fore-icon {
+  width: 40px;
 }
