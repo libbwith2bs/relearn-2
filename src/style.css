@@ -77,3 +77,7 @@ li::first-letter {
 .fore-icon {
   width: 40px;
 }
+
+.open-source {
+  text-align: center;
+}
